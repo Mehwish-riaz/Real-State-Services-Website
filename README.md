@@ -1,2 +1,2 @@
 # Real-State-Services-Website
-This website is created using HTML, CSS and Bootstrap
+Modern real estate site using HTML, CSS & bootstrap to explore properties, view details, and connect with agents.
